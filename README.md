@@ -2,4 +2,4 @@ Olá! Este repositório abrigará todos Dashboards de projetos feitos por mim. E
 
 Projetos:
 
-- Marcketplace
+- [Marcketplace](https://github.com/Leedda/Data-Science-Academy-/tree/main/Marketplace%20BI)
